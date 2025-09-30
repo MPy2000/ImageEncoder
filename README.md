@@ -5,7 +5,8 @@ For Windows.
 
 # Intructions
 
-Typically the exe file will download the required library. If not, install both Python and the required pillow library. 
-When entering the path of the image file always make sure the path indicated is not under quotations, as python doesn't won't recognize it. 
-Wgen entering the path of the output image, do not just enter a directory and the image file needs to be a .png instead of .jpeg. As the .jpeg compression destroys the LSB data. 
+Typically the .exe file will download the required library. 
+If not, install both Python and the required pillow library. 
+When entering the path of the image file, always make sure that the path indicated is not under quotations, as python won't recognize it. 
+When entering the path of the output image, do not just enter a directory and the image file needs to be a .png instead of .jpeg. As the .jpeg compression destroys the LSB data. 
 
